@@ -1,1 +1,0 @@
-sr.reveal('.container-fluid');
